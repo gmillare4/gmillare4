@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Greg 👋
+
+I'm a software engineer who is passionate about learning new things and making creative projects.
 
 <!--
 **gmillare4/gmillare4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
