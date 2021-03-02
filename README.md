@@ -1,6 +1,8 @@
+<!--
 ### Hi, I'm Greg 👋
 
 I'm a software engineer who is passionate about learning new things and making creative projects.
+-->
 
 ![Greg Wordcloud](https://github.com/gmillare4/gmillare4/blob/main/GregMWordcloud.jpg)
 <!--
