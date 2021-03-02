@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about learning new things and making creative projects.
 
-![Greg Wordcloud] (https://raw.githubusercontent.com/gmillare4/gmillare4/main/GregMWordcloud.jpg?token=APWQGAODHX5YMESE2KJMAYDAH3FQA)
+![Greg Wordcloud](https://github.com/gmillare4/gmillare4/blob/main/GregMWordcloud.jpg)
 <!--
 **gmillare4/gmillare4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
